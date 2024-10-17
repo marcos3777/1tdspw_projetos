@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TabelaFutebol:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TabelaFutebol_jar</output-path>
+    <root id="archive" name="TabelaFutebol.jar">
+      <element id="module-output" name="TabelaFutebol" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/oracle/database/ha/ons/23.4.0.24.05/ons-23.4.0.24.05.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/oracle/database/security/oraclepki/23.4.0.24.05/oraclepki-23.4.0.24.05.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/oracle/database/jdbc/rsi/23.4.0.24.05/rsi-23.4.0.24.05.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/oracle/database/nls/orai18n/23.4.0.24.05/orai18n-23.4.0.24.05.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/oracle/database/ha/simplefan/23.4.0.24.05/simplefan-23.4.0.24.05.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/oracle/database/xml/xmlparserv2/23.4.0.24.05/xmlparserv2-23.4.0.24.05.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/oracle/database/xml/xdb/23.4.0.24.05/xdb-23.4.0.24.05.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/oracle/database/jdbc/ojdbc11/23.4.0.24.05/ojdbc11-23.4.0.24.05.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/oracle/database/jdbc/ucp11/23.4.0.24.05/ucp11-23.4.0.24.05.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
