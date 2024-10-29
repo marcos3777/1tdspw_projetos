@@ -23,7 +23,7 @@ public class Main {
         // create a resource config that scans for JAX-RS resources and providers
         // in br.com.fiap package
         final ResourceConfig rc = new ResourceConfig().packages("br.com.fiap");
-        rc.register(new CorsFiltro());
+
         // create and start a new instance of grizzly http server
         // exposing the Jersey application at BASE_URI
         return GrizzlyHttpServerFactory.createHttpServer(URI.create(BASE_URI), rc);
